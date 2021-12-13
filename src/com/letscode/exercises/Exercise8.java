@@ -1,6 +1,5 @@
 package com.letscode.exercises;
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 class people{
