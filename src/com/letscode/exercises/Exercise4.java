@@ -34,7 +34,7 @@ public class Exercise4 {
         }
         System.out.println("Smallest number entered : "+ smaller);
         System.out.println("Highest number entered : "+larger);
-        System.out.println("the average is é : "+ calculateTheAverage);
+        System.out.println("The average is é : "+ calculateTheAverage);
 
     }
 }
