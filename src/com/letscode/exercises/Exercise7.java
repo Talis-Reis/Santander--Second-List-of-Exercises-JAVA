@@ -41,8 +41,6 @@ public class Exercise7 {
 
         for(int j = 0; j < people.length; j++){
 
-            int lowestIndex = people[j].age;
-
             if(ageOfPersonOfLegalAge < people[j].age){
                 nameOfPersonOfLegalAge = people[j].name;
                 ageOfPersonOfLegalAge = people[j].age;
